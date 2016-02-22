@@ -1,0 +1,5 @@
+Title: Adding an event
+Viewpoint: Admin of site (Jomo and other in SGA)
+
+Story:
+When I create an event, the application asks me some basic questions: When is the event, where is the event, maximum people count. Then it asks me questions that are specefic to some events: is there a speaker, are you serving food, do you need an ambassador there, do you need volunteers. If I answer yes to these questions, the application will open up more questions for each section: Are there multiple speakers, what is the speaker's name, who is bringing the food, how many ambassadors do you need, how many volunteers do you need. Once all the information is filled in, you can submit, and the event will be created with an Approval Needed status. At this point the event is available to administrators, but not to users (Students).

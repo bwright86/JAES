@@ -1,0 +1,5 @@
+Title: Adding Custom Event Details.
+Viewpoint: Admin (Jomo and others in SGA)
+
+Story:
+Sometimes special details need to be captured for events, and these details are knowledge for the public, or sometimes they are private only for the administrators. When you open an event, you can edit it and add custom details. You can select from a list of past details, or add a new one. The list of details are broken into two lists: Administrator Only details, and Everyone details. When you choose to create a new detail, it asks you for a detail title, visibility, and detail value. The title is stored to show as an available detail in the future. The visibility box is just two options: Administrators Only or Everyone. When you select Administrators Only, this detail will always be private to any Administrator, and never shown to Users. When you select Everyone, this detail will be available for anyone to see in the Event Details screen.
